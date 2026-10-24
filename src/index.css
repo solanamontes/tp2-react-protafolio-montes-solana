@@ -1,0 +1,28 @@
+
+:root {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #352a46;
+  background-color: #f6f3fc;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+a {
+  color: #7656b5;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
